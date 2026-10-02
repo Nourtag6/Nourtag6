@@ -59,7 +59,7 @@
 ##  Contact Informations
 
 <p align="center">
-  <a href="CV_Nour_Tagorti" target="_blank">
+  <a href="CV_Nour_Tagorti.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume_/_CV-333333?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV" />
   </a>
   <a href="https://www.linkedin.com/in/nour-tagorti-94bb88381">
